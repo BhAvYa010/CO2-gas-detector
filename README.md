@@ -26,7 +26,7 @@ Features:
 - Low-cost and easy-to-build design.
 
 Applications:
-- Indoor air quality monitoring in homes, offices, and schools.
+- Indoor air quality monitoring in homes, offices and schools.
 - Greenhouse environmental control.
 - Industrial safety in areas with potential CO2 leaks.
 - Research and experimentation in the field of environmental science.
